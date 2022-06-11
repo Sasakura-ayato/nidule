@@ -1,5 +1,5 @@
 # 概要
-![[./README_img/image1.png](https://raw.githubusercontent.com/Sasakura-ayato/nidule/main/README_img/image1.png)]
+![image](https://user-images.githubusercontent.com/58127312/173190023-305143d0-3a82-45ea-8685-1eb01c44c844.png)
 これを自動生成したい
 
 # Usage
