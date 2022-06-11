@@ -1,5 +1,5 @@
 # 概要
-![./README_img/image1.png]
+![[./README_img/image1.png](https://raw.githubusercontent.com/Sasakura-ayato/nidule/main/README_img/image1.png)]
 これを自動生成したい
 
 # Usage
